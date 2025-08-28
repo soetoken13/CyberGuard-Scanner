@@ -1,0 +1,5 @@
+{
+  "name": "CyberGuard Vulnerability Scanner",
+  "description": "A web application vulnerability assessment and penetration testing application that generates detailed reports in PDF format based on OWASP Top 10 and ISO 27001 standards.",
+  "requestFramePermissions": []
+}
